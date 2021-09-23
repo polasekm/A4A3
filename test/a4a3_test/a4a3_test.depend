@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616894026 source:/home/polasekm/ownCloud/SEA/Projects/GSM-TIPEC4/fw/STM32_F4VE_kit_NRF24L01_concentrator/STM32_F4VE_kit_GSM-TIPEC4_test/Libs/a4a3/test/a4a3_test/main.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	"../../a4a3.h"
+
+1616891932 /home/polasekm/ownCloud/SEA/Projects/GSM-TIPEC4/fw/STM32_F4VE_kit_NRF24L01_concentrator/STM32_F4VE_kit_GSM-TIPEC4_test/Libs/a4a3/a4a3.h
+	<string.h>
+	<stdint.h>
+
+1616901014 source:/home/polasekm/ownCloud/SEA/Projects/GSM-TIPEC4/fw/STM32_F4VE_kit_NRF24L01_concentrator/STM32_F4VE_kit_GSM-TIPEC4_test/Libs/a4a3/a4a3.c
+	"a4a3.h"
+
