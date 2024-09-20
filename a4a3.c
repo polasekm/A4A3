@@ -1,8 +1,8 @@
 /*
- * usart.c
+ * a4a3.c
  *
- *  Created on: Apr 9, 2011
- *      Author: Martin
+ *  Created on: 24.9. 2021
+ *      Author: Martin Polasek
  */
 //------------------------------------------------------------------------------
 #include "a4a3.h"

@@ -1,9 +1,9 @@
 /*-----------------------------------------------------------------------------*/
 /*
- * usart.h
+ * a4a3.h
  *
- *  Created on: Apr 9, 2011
- *      Author: Martin
+ *  Created on: 24.9. 2021
+ *      Author: Martin Polasek
  */
 /*-----------------------------------------------------------------------------*/
 #ifndef A4A3_H_INCLUDED
@@ -15,14 +15,14 @@
 
 /* Exported types ------------------------------------------------------------*/
 /**
-  * @brief  Ring buffer structure definition
+  * @brief  A4A3 structure definition
   */
 typedef struct
 {
-  uint8_t *buff;        //ukazatel na pocatek bufferu
+  uint8_t *buff;        //buffer pointer
 
-  //uint8_t *write;       //zapisovaci ukazatel
-  uint16_t size;        //velikost bufferu
+  //uint8_t *write;     //write pointer
+  uint16_t size;        //buffer size
 
   uint8_t state;        //state
   uint8_t escape;       //escaper state
